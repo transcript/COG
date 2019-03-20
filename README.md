@@ -87,7 +87,7 @@ The -O option designates the name of the created image, saved as a PDF vector fi
 
 The result is a PDF containing a pie chart, along with a legend depicting the top COG categories.
 
-<image>
+![Pie chart](https://raw.githubusercontent.com/transcript/COG/master/Rplot.png)
 
 A guide for each letter code can be found here: [http://www.sbg.bio.ic.ac.uk/~phunkee/html/old/COG_functions.html](http://www.sbg.bio.ic.ac.uk/~phunkee/html/old/COG_functions.html)
 
